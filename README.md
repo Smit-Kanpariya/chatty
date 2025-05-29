@@ -1,8 +1,7 @@
 # 💬 CHATTY - Real-Time Chat Application
 
 A proprietary, full-stack chat application built with modern web technologies, featuring real-time messaging, secure authentication, and an intuitive user interface.
-
-<img width="1436" alt="chatty" src="https://github.com/user-attachments/assets/da29ee27-db7c-417a-9cc7-8ea9220652e1" />
+<img width="1439" alt="chatty" src="https://github.com/user-attachments/assets/2d5c7380-603e-442c-8b57-bab7e83ff566" />
 
 LIVE : https://chatty-6mii.onrender.com/signup
 
