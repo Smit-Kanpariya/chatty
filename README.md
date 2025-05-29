@@ -4,7 +4,7 @@ A proprietary, full-stack chat application built with modern web technologies, f
 
 <img width="1436" alt="chatty" src="https://github.com/user-attachments/assets/da29ee27-db7c-417a-9cc7-8ea9220652e1" />
 
-LIVE : 
+LIVE : https://chatty-6mii.onrender.com/signup
 
 ## ✨ Features Overview
 
